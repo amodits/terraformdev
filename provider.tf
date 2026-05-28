@@ -6,3 +6,10 @@ terraform {
     }
   }
 }
+##Setting provider
+provider "azurerm" {
+    features {
+      
+    }
+  
+}
