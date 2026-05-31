@@ -11,6 +11,9 @@ variable "rgname3"{
 variable "rgname4"{
     type=string 
 }
+variable "rgname4"{
+    type=string 
+}
 variable "location"{
     type = string
 }
