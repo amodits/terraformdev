@@ -8,7 +8,9 @@ variable "rgname2"{
 variable "rgname3"{
     type=string 
 }
-
+variable "rgname4"{
+    type=string 
+}
 variable "location"{
     type = string
 }

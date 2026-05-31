@@ -1,4 +1,5 @@
-rgname = "amod-dev-rg"
 location = "east us"
+rgname = "amod-dev-rg"
 rgname2 = "amod-prod-rg"
 rgname3 = "amod-test-rg"
+rgname4 = "amod-test-rg"
