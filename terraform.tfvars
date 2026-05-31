@@ -1,5 +1,6 @@
 location = "east us"
 rgname = "amod-dev-rg"
 rgname2 = "amod-prod-rg"
-rgname3 = "amod-test-rg"
-rgname4 = "amod-test-rg"
+rgname3 = "amod-test3-rg"
+rgname4 = "amod-test4-rg"
+rgname5 = "amod-test5-rg"
