@@ -21,3 +21,7 @@ resource "azurerm_resource_group" "rg2"{
     name=var.rgname2
   location = "westus"
 }
+resource "azurerm_resource_group" "rg3"{
+    name=var.rgname3
+  location = "westus"
+}
