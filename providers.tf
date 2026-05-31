@@ -14,6 +14,10 @@ provider "azurerm" {
 }
 ##Creatingg resource group
 resource "azurerm_resource_group" "rg"{
-    name=var.location
+    name=var.rgname
+  location = "westus"
+}
+resource "azurerm_resource_group" "rg2"{
+    name=var.rgname2
   location = "westus"
 }
