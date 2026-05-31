@@ -18,3 +18,6 @@ variable "rgname4"{
 variable "rgname5"{
     type=string 
 }
+variable "rgname6"{
+    type=string 
+}
