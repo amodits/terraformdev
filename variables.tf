@@ -1,3 +1,7 @@
+variable "location"{
+    type = string
+}
+
 variable "rgname"{
     type=string 
 }
@@ -11,9 +15,6 @@ variable "rgname3"{
 variable "rgname4"{
     type=string 
 }
-variable "rgname4"{
+variable "rgname5"{
     type=string 
-}
-variable "location"{
-    type = string
 }
